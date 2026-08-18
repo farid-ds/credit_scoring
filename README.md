@@ -136,7 +136,7 @@ Optuna.
 credit_scoring/
 │
 ├── data/
-│   └── raw/                  # исходные данные, не отслеживаются Git
+│   └── raw/                  
 │
 ├── notebooks/
 │   ├── 01_eda.ipynb
