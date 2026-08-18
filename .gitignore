@@ -18,3 +18,6 @@ Thumbs.db
 
 # IDE 
 .vscode/ 
+
+# CatBoost
+catboost_info/
